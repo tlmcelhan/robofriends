@@ -3,7 +3,7 @@ import CardList from "../components/CardList";
 import SearchBox from '../components/SearchBox'
 import './App.css';
 import Scroll from '../components/scroll'
-import ErrorBoundry from '../components/ErrorBoundry'
+// import ErrorBoundry from '../components/ErrorBoundry'
 
 
 class App extends Component {
